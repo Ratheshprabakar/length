@@ -1,4 +1,4 @@
-# length
+# length 1.0.1
 
 [![PyPI - License](https://img.shields.io/pypi/l/length)](https://raw.githubusercontent.com/Ratheshprabakar/length/master/LICENSE.md)
 ![PyPI](https://img.shields.io/pypi/v/length)
