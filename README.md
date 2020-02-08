@@ -11,6 +11,11 @@ A simple package to find the number of digits in the given number.
 ```
 pip install length
 ```
+suppose if you are facing error during installation of this package, try this 
+
+```
+python3 -m pip install length
+```
 
 ## How to use
 
