@@ -1,6 +1,7 @@
 # length
 
 [![PyPI - License](https://img.shields.io/pypi/l/length)](https://raw.githubusercontent.com/Ratheshprabakar/length/master/LICENSE.md)
+![PyPI](https://img.shields.io/pypi/v/length)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-green.svg)](https://img.shields.io/badge/contributions-welcome-green.svg)
 
 A simple package to find the number of digits in the given number.
